@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap&#39`);
 
 :root{
---laranja-claro:#8d00768a;/*definir uma variavel CSS para cor lilas*/
+--lilas:#8d00768a;/*definir uma variavel CSS para cor lilas*/
 body{
     
     font-size:1rem;/*tamanho de fonte base(geralmente 16px)*/
